@@ -10,7 +10,7 @@
 
 ## 📋 Запуск
   - Открыть проект
-  - Запустить сцену - SampleScene
+  - Открыть Assets\Content\Scenes\SampleScene
   - Запустить игру
 
 [✨ Видео-демонстрация](https://drive.google.com/file/d/1VQnleakaSs-ZDvXMTAzRAdlBcXprEggI/view?usp=sharing)
