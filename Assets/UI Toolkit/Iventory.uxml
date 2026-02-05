@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/InventoryStyle.uss?fileID=7433441132597879392&amp;guid=460a348f2d4f0a04b80310bbd8a9aa0f&amp;type=3#InventoryStyle" />
+    <ui:VisualElement name="InventoryPanel" class="inventory-panel" style="top: 25px; left: 40px; height: 591px; width: 1229px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; transform-origin: left; right: 0; bottom: 0;">
+        <ui:Label name="InventoryTitle" text="Inventory" class="inventory-title" style="-unity-font-definition: url(&quot;project://database/Packages/com.unity.cinemachine/Runtime/Debug/CinemachineRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=df9aec944f4474a04847b6d6375e4138&amp;type=3#NotInter-Regular&quot;); -unity-font-style: bold; font-size: 38px; -unity-text-align: upper-left;" />
+        <ui:VisualElement name="ItemsGrid" class="items-grid" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,38 @@
+[
+{
+"Name":"Red cube",
+"Id":0,
+"IsStackable":true,
+"MaxStackCount":5,
+"UnityColor":{"Red":176.0,"Green":46.0,"Blue":46.0}
+},
+{
+"Name":"Green cube",
+"Id":1,
+"IsStackable":false,
+"MaxStackCount":1,
+"UnityColor":{"Red":39.0,"Green":168.0,"Blue":66.0}
+},
+{
+"Name":"Blue cube",
+"Id":2,
+"IsStackable":true,
+"MaxStackCount":5,
+"UnityColor":{"Red":42.0,"Green":154.0,"Blue":200.0}
+},
+{
+"Name":"Black cube",
+"Id":3,"IsStackable":true,
+"MaxStackCount":5,
+"UnityColor":{"Red":31.0,
+"Green":30.0,"Blue":30.0}
+},
+{
+"Name":"Orange cube",
+"Id":4,
+"IsStackable":false,
+"MaxStackCount":1,
+"UnityColor":{"Red":226.0,
+"Green":150.0,"Blue":67.0}
+}
+]

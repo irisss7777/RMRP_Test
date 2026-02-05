@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d2dc3684ec4168bcb7505e4654a089, type: 3}
+  m_Name: ItemsRepositories
+  m_EditorClassIdentifier: Infrastructure::Infrastructure.Database.Repositories.ItemsRepositories
+  _itemConfigs:
+  - Name: Red cube
+    Id: 0
+    IsStackable: 1
+    MaxStackCount: 5
+    UnityColor:
+      Red: 176
+      Green: 46
+      Blue: 46
+    Color: {r: 0.6886792, g: 0.1786668, b: 0.1786668, a: 1}
+  - Name: Green cube
+    Id: 1
+    IsStackable: 0
+    MaxStackCount: 1
+    UnityColor:
+      Red: 39
+      Green: 168
+      Blue: 66
+    Color: {r: 0.15263441, g: 0.6603774, b: 0.25982457, a: 1}
+  - Name: Blue cube
+    Id: 2
+    IsStackable: 1
+    MaxStackCount: 5
+    UnityColor:
+      Red: 42
+      Green: 154
+      Blue: 200
+    Color: {r: 0.16620687, g: 0.6034252, b: 0.7830189, a: 1}
+  - Name: Black cube
+    Id: 3
+    IsStackable: 1
+    MaxStackCount: 5
+    UnityColor:
+      Red: 31
+      Green: 30
+      Blue: 30
+    Color: {r: 0.122641504, g: 0.11743502, b: 0.11743502, a: 1}
+  - Name: Orange cube
+    Id: 4
+    IsStackable: 0
+    MaxStackCount: 1
+    UnityColor:
+      Red: 226
+      Green: 150
+      Blue: 67
+    Color: {r: 0.8867924, g: 0.58814484, b: 0.26352793, a: 1}
